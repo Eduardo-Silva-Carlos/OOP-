@@ -1,36 +1,67 @@
-🚀 Olá, eu sou o Carlos Eduardo! 👋
-👨‍💻 Acadêmico de Engenharia de Software | Backend Developer (Java)
-Atualmente no 4º semestre de Engenharia de Software na Gran Faculdade, foco meus estudos na construção de sistemas robustos, escaláveis e na preparação para Concursos Públicos de TI. Sou entusiasta do ecossistema Linux e defensor de metodologias ágeis para organização pessoal e acadêmica.
+# 🚀 Carlos Eduardo | Software Engineering Student
 
-🛠️ Minha Stack Técnica
-Linguagens: Java (Foco em Backend & OO), C (Lógica), Kotlin (Mobile).
+> "A disciplina é a ponte entre metas e realizações."
 
-Frameworks: Spring Framework (Spring Boot, Data JPA, Security).
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Linux_Mint-0077B5?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
+</p>
 
-Ambiente: Linux (Debian & LMDE - Linux Mint Debian Edition).
+---
 
-Ferramentas: IntelliJ IDEA, Spring Tool Suite (STS), Obsidian (Knowledge Management).
+### 👨‍💻 Sobre Mim
+* 🎓 Atualmente no **4º semestre** de Engenharia de Software na **Gran Faculdade**.
+* 🎯 Foco em **Backend Development** (Java Ecosystem) e preparação para **Concursos Públicos de TI**.
+* 🐧 Usuário entusiasta de **Linux** (Debian / LMDE).
+* 📝 Organizo meus estudos e base de conhecimento utilizando **Obsidian** e **Markdown**.
 
-Bancos de Dados: SQLite, PostgreSQL (Estudos Baseados em Silberschatz).
+---
 
-📖 Jornada de Estudos & Objetivos
-No momento, sigo um cronograma intensivo de 6 meses utilizando Scrum para equilibrar a faculdade e o estudo para editais de TI:
+### 🛠️ Conhecimentos Técnicos
 
-Fundamentos: Redes (Tanenbaum), Banco de Dados (Silberschatz) e Cálculo (Stewart).
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Java (OO Avançado), Kotlin, C |
+| **Backend** | Spring Boot, Spring Data JPA, Spring Security |
+| **Bancos de Dados** | PostgreSQL, SQLite (Foco em Silberschatz) |
+| **Infra/OS** | Linux (Terminal, Shell Scripting), Docker |
+| **Ferramentas** | IntelliJ IDEA, STS, Git, Obsidian |
 
-Programação: Domínio profundo de Orientação a Objetos e Tipos Abstratos de Dados (TADs).
+---
 
-Projetos Atuais: Desenvolvimento de um aplicativo de ensino de idiomas (Android) com foco em arquitetura MVVM.
+### 📖 Jornada de Estudos & Projetos
+* **Foco Acadêmico:** Redes (Tanenbaum), Banco de Dados (Silberschatz) e Cálculo (Stewart).
+* **Projeto Atual:** Desenvolvimento de um aplicativo de ensino de idiomas (Android) com arquitetura **MVVM**.
+* **Metodologia:** Utilizo **Scrum** para gerenciar meu backlog de estudos para concursos e faculdade.
 
-📊 Estatísticas do GitHub
-📫 Como me encontrar
-LinkedIn: [Link para seu LinkedIn]
+---
 
-Obsidian Vault: [Link se você compartilhar suas notas públicas]
+### 📊 Estatísticas de Desenvolvedor
 
-📂 Organização de Repositórios
-/faculdade: Projetos e laboratórios da graduação.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Silva-Carlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Silva-Carlos&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+</p>
 
-/concursos-ti: Questões resolvidas e resumos de editais.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Silva-Carlos&theme=dracula" alt="GitHub Streak" />
+</p>
 
-/java-journey: Exercícios focados em lógica e POO.
+---
+
+### 📂 Organização do Perfil
+* 📁 **/faculdade**: Projetos acadêmicos e laboratórios.
+* 📁 **/concursos-ti**: Resumos e questões resolvidas de editais.
+* 📁 **/java-journey**: Evolução em Orientação a Objetos e Algoritmos.
+
+---
+
+### 📫 Contato
+<p align="left">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
