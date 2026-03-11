@@ -61,7 +61,7 @@
 
 ### 📫 Contato
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/carlos-developer-005040210" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
